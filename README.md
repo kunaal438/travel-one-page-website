@@ -1,6 +1,6 @@
-# travel-one-page-website
+# Responsive Travel one page website
 
-![Website]('https://i9.ytimg.com/vi/j3xI8aHwZnE/mqdefault.jpg?v=6411e5c5&sqp=CNTLyqAG&rs=AOn4CLAZUwCjsoX5_D3XLeJPGoHawFfBOQ')
+![Website](https://i9.ytimg.com/vi/j3xI8aHwZnE/maxresdefault.jpg?v=6411e5c5&sqp=CNTLyqAG&rs=AOn4CLBj6ML8ATomLM2bqEeTyqa-_Rae4w)
 
 Download Full Code Here - https://www.patreon.com/posts/responsive-using-80058174
 
@@ -52,8 +52,12 @@ JS
 
 You can manually add these CDNs too.
 
-[Instagram]('https://www.instagram.com/themodernweb/')
-[Facebook]('https://www.facebook.com/themodernweb')
-[Twitter]('https://twitter.com/modernweb438')
-[Dev.to]('https://dev.to/themodernweb')
-[Subscribe]('https://www.youtube.com/c/modernweb?sub_confirmation=1/')
+[Instagram](https://www.instagram.com/themodernweb/)
+
+[Facebook](https://www.facebook.com/themodernweb)
+
+[Twitter](https://twitter.com/modernweb438)
+
+[Dev.to](https://dev.to/themodernweb)
+
+[YouTube](https://www.youtube.com/c/modernweb?sub_confirmation=1/)
